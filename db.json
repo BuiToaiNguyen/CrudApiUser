@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": "2",
+      "name": "sang",
+      "age": "22",
+      "address": "bac ninh",
+      "numberPhone": "09999"
+    },
+    {
+      "id": "5",
+      "name": "sang",
+      "age": "22",
+      "address": "bac ninh",
+      "numberPhone": "09999"
+    },
+    {
+      "id": "21d02a1e-71ed-4532-b997-9e74ef7b4370",
+      "name": "nguyen nè",
+      "age": "22",
+      "address": "hòa bình",
+      "numberPhone": "082880344"
+    },
+    {
+      "id": "fb1b9da4-8050-45aa-94ec-22e26493fdff",
+      "name": "nguyen bui",
+      "age": "22",
+      "address": "hòa bình",
+      "numberPhone": "082880344"
+    },
+    {
+      "id": "1ea8a868-d743-4a67-8e89-bb6e313d2969",
+      "name": "tí nữa nha bé nhé hihi haha hoho",
+      "age": "6",
+      "address": "hà nội",
+      "numberPhone": "22222"
+    },
+    {
+      "id": "bbc52cbc-dbce-4f0e-b4ef-5240f087aeb9",
+      "name": "làm cục cưng ko bé",
+      "age": "22",
+      "address": "hào bình",
+      "numberPhone": "2222"
+    }
+  ]
+}
